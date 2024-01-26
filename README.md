@@ -1,4 +1,4 @@
-# Saucedemo Login Test with Cypress
+# City names' length task 
 
 This project asks a user to write city names and tye 'q', then it shows if they have longer or less than 5 characters on the console (as a long city name and a short city name).
 
